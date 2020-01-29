@@ -1,0 +1,8 @@
+/*! Place your custom styles here */
+
+.outline-1 {
+	color: #ffffff;
+	-webkit-text-stroke:2\px black;
+	font-weight: bolder;
+	font-size: 2.8em;
+}
