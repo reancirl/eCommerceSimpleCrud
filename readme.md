@@ -1,4 +1,4 @@
-GITBASH commands
+GITBASH commands	<br>
 1.git clone https://github.com/reancirl/eCommerceSimpleCrud.git <br>
 2. composer install <br>
 3. cp .env.example .env <br>
