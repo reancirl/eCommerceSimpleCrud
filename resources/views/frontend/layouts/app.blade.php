@@ -5,6 +5,7 @@
     <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
 @endlangrtl
     <head>
+        <!-- <link rel="shortcut icon" href="{{asset('beforeLogin/img/cross.png')}}" /> -->
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
         <meta name="csrf-token" content="{{ csrf_token() }}">

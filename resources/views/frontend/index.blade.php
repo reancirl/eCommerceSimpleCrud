@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
-        <title>Kong's Footwear</title>
+        <title>Kong Footwear</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <link href="css/stack-interface.css" rel="stylesheet" type="text/css" media="all">
         <link href="css/socicon.css" rel="stylesheet" type="text/css" media="all" />
@@ -60,7 +60,8 @@
                 <div class="container pos-vertical-center">
                     <div class="row">
                         <div class="col-md-9 col-lg-8">
-                           <!--  <h1>Ecommerce CRUD. Created with STACK and LARAVEL</h1> -->
+                            <h1>Mga kulang:</h1>
+                            <p>Slug, Multiple Image Upload, Pag Crop sa image before Upload, WYSIWYG</p>
                             
                         </div>
                     </div>
